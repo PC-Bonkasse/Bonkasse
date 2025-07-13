@@ -1,4 +1,7 @@
 Copyright (c) 2025 PC-Bonkasse
+
++++ ENGLISH VERSION BELOW +++
+
 ---
 
 DEUTSCHE VERSION
