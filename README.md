@@ -8,7 +8,7 @@
 - **Flexible Artikelverwaltung:** Anlegen, Bearbeiten und Löschen von Artikeln
 - **ESC/POS-Druck:** Unterstützung für kostengünstige Bondrucker
 - **Benutzerverwaltung:** Ideal für den Einsatz mit mehreren Kellnern oder Bedienern
-- **Kundendisplay:** Anzeige der Bons für Kunden auf einem zweiten Bildschirm
+- **Kundendisplay:** Anzeige der Gesamtsumme und der einzelnen Artikel für Kunden auf einem zweiten Bildschirm oder auf einem "2 Zeilen Display"
 - **Plattformunabhängig:** Läuft unter Windows und Linux
 - **Lokale Datenhaltung:** Speicherung der Verkaufsdaten zunächst lokal in CSV-Dateien
 
