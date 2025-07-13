@@ -25,11 +25,6 @@
 | Datenhaltung                   | 🛠️ Geplant  | Speicherung lokal in CSV-Dateien, später Datenbank auf zentralem Server     |
 | Server-Option für Konfiguration | 🔜 Denkbar      | Konfigurationsverteilung an mehrere Kassen über einen zentralen Server      |
 
-## 💻 Plattformen
-
-- Windows (getestet unter Windows 10/11)
-- Linux (Debian-basiert empfohlen)
-- Weitere Systeme in Planung
 
 ## 🧱 Technologie-Stack
 
@@ -38,7 +33,6 @@ Die Software wird mit Blick auf Wartbarkeit und Erweiterbarkeit entwickelt.
 
 ## 📦 Installation
 
-Installation über Download oder Paketmanager (in Planung).  
 Weitere Infos folgen mit dem ersten Release.
 
 ## 🧪 Entwicklung & Mitwirken
